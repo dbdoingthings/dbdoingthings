@@ -1,6 +1,6 @@
-## % whoami
+# Hello
 
-Hello, my name is **Dennis Basilio**.
+My name is **Dennis Basilio**.
 
 I am a cyber security professional based out of Los Angeles, CA. I am also a masters student at the SANS Technology Institute.
 
@@ -18,5 +18,6 @@ I am a cyber security professional based out of Los Angeles, CA. I am also a mas
 ### Working On
 
 1. Programming Skills
-2. Red Team Operations
-3. CTF
+2. Scripting
+3. Red Team Operations
+4. CTF
