@@ -16,5 +16,5 @@ I am a cyber security professional based out of Los Angeles, CA. I am also a mas
 
 ### Currently Working On
 
-1. SANS MGT525
+1. SANS MGT525 - Managing Cybersecurity Initiatives and Effective Communication
 2. 100 Days of Code using freecodecamp.org
