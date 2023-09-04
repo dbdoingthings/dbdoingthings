@@ -15,4 +15,3 @@ jobs:
         with:
           CREDLY_USER: dennis-basilio.2b2f916e
           BADGE_SIZE: 75
-          NUMBER_LAST_BADGES: 15
