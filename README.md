@@ -1,11 +1,16 @@
-<h1 align="left">👋</h1>
-<p align="left">My name is Dennis Basilio, and I'm a cyber security analyst based out in Los Angeles, CA.</p>
-<h2 align="left">About me</h2>
-<p align="left">🔎 Digital forensics and incident response practitioner<br>> Splunk Architect<br>📚 Masters student with the SANS Technology Institute<br>🎯 Goals: Build on my DFIR skills and explore other technologies</p>
-<h2 align="left">For fun</h2>
-<p align="left">✈️ 🎶 🌇 ☕️ 🍵 🏕️🥋</p>
-<h2 align="left">Badges</h2>
+# ✌️
+My name is Dennis Basilio, and I'm a cyber security analyst based out in Los Angeles, CA.
+## About me
+Just a guy who enjoys learning and doing things. My primary interests are in security operations with a focus in DFIR, threat hunting, log analysis, and SIEM architecture. Some of the things I'm currently working on or learning:
+* Threat Intelligence
+* Detection Engineering
+* DevOps
 
+## For fun 
+✈️ 🎶 🌇 ☕️ 🍵 🏕️🥋
+
+
+## Badges
 <!--START_SECTION:badges-->
 [![GIAC Defending Advanced Threats (GDAT)](https://images.credly.com/size/75x75/images/03235ef0-6323-4d92-b77d-64db69b63514/image.png)](http://www.credly.com/badges/0183028e-162a-4e07-9bed-16933ae4e408 "GIAC Defending Advanced Threats (GDAT)")
 [![GIAC Certified Project Manager (GCPM)](https://images.credly.com/size/75x75/images/8bd1a6ff-4d57-4126-8ee0-ae37f9a9ca33/image.png)](http://www.credly.com/badges/bdc321a3-ee84-4ce7-9f49-043e8a2676bd "GIAC Certified Project Manager (GCPM)")
